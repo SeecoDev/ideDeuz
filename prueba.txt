@@ -1,0 +1,8 @@
+  papoi banana(){
+  dul a = 5;
+  dul b = 6;
+  hana(a>b){
+  poopaye(a);
+   }
+
+  }

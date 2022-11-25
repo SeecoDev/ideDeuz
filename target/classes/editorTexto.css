@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.lineno {
+    -fx-background-color: #faf8f7;
+
+}
+
+.styled-text-area{
+    -fx-background-color: #ffff;
+    -fx-font-weight: bold;
+    -fx-font-family: 'Roboto', sans-serif;
+    -fx-font-size: 16px;
+}
+
+.styled-text-area .text{
+    -fx-fill: #141617;
+}
+
+.styled-text-area .text.keyword {
+    -fx-fill: #ECD444;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .text.ciclos {
+    -fx-fill: #E4572E;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .text.truefalse {
+    -fx-fill: #6E2594;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .text.tipos {
+    -fx-fill: #29335C;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .text.semicolon {
+    -fx-fill: #141617;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .text.paren {
+    -fx-fill: #141617;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .text.brace {
+    -fx-fill: #376073;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .text.string {
+    -fx-fill: #C94277;
+}
+
+.styled-text-area .text.comment {
+    -fx-fill: #707a83;
+}
+
+
+.styled-text-area .text.operation {
+    -fx-fill: #e17b20;
+}
+
+.styled-text-area .text.number{
+    -fx-fill: #375073;
+}
+

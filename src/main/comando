@@ -1,0 +1,5 @@
+Minio
+antlr4 -package com.parser -o ../java/com/parser -no-listener -visitor Minion.g4
+
+Traductor
+antlr4 -package com.parser -o ../java/com/parser -no-listener -visitor Traductor.g4
